@@ -1,4 +1,4 @@
-package co.edu.uniquindio.poo.colas;
+package src.co.edu.uniquindio.poo.colas;
 
 
 public class Solicitud {
